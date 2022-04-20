@@ -1,0 +1,30 @@
+{
+	"name": "solid-create-effect-development",
+	"version": "0.0.1",
+	"description": "Detects possible recursion on createEffect for SolidJS.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/titoBouzout/solid-create-effect-development.git"
+	},
+	"keywords": ["solidjs", "solid", "createEffect", "recursion", "screams"],
+	"author": "Tito Bouzout",
+	"license": "GPL",
+	"bugs": {
+		"url": "https://github.com/titoBouzout/solid-create-effect-development/issues"
+	},
+	"homepage": "https://github.com/titoBouzout/solid-create-effect-development#readme",
+	"prettier": {
+		"printWidth": 100,
+		"useTabs": true,
+		"semi": false,
+		"singleQuote": true,
+		"jsxSingleQuote": false,
+		"trailingComma": "all",
+		"bracketSpacing": true,
+		"jsxBracketSameLine": false,
+		"arrowParens": "avoid",
+		"quoteProps": "preserve",
+		"proseWrap": "preserve"
+	}
+}
