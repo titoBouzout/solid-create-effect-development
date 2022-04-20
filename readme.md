@@ -9,12 +9,8 @@ A Solid tool. See https://www.solidjs.com/
 ```jsx
 import createEffect from 'solid-create-effect-development'
 
-function fn() {
-	fn()
-}
-
 createEffect(() => {
-	fn()
+	/*...*/
 })
 ```
 
